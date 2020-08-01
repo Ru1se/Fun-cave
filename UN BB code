@@ -1,0 +1,26 @@
+[color=#006400][size=x-large][align=center][font=Orbitron]Incoming Transmission[/font][/align][/size][/color]
+[hrc]#BF0000[/hrc]
+[align=left][float=left][img=300x300]CHAR IMAGE GOES HERE[/img][/float][/align]
+
+
+ [font=Orbitron][size=large][color=#006400]Sender ID:[/color] YOR NAME
+
+[color=#006400]Sender Location:[/color] LOCATION
+
+[color=#006400]Transmission purpose:[/color] PURPOSE
+
+[color=#006400]Transmission nodes:[/color] TRANS
+
+[color=#006400]Recipient:[/color] REC
+[/size][/font]
+[align=right][img=200x200]UN LABES GOES HERE[/img][/align]
+[color=#80FF80]
+[hrc]#BF0000[/hrc]
+[indent][font=Open Sans]
+
+MESSAGE GOES HERE
+
+[/font][/indent][/color]
+[hrc]#BF0000[/hrc]
+
+[color=#006400][size=x-large][align=center][font=Orbitron]Transmission Ended[/font][/align][/size][/color]
